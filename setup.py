@@ -1,5 +1,6 @@
 import io
 import pathlib
+import pandas as pd
 import os
 import re
 from setuptools import setup, find_packages
